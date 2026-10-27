@@ -1,0 +1,22 @@
+# OS / System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / Virtualenvs
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary & Logs
+*.log
+.scratch/
